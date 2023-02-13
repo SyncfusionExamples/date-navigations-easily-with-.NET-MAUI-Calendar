@@ -1,7 +1,8 @@
-# How to do date navigations easily with .NET MAUI Calendar (SfCalendar)
+# How to Easily Navigate Dates in the .NET MAUI Calendar (SfCalendar)
+
 This repository contains a sample to do date navigations easily with the [Syncfusion .NET MAUI Calendar](https://help.syncfusion.com/maui/calendar/getting-started) control.
 
-Please refer the KB through this link.
+Please refer the KB through this [link](https://www.syncfusion.com/kb/13911/how-to-easily-navigate-dates-in-the-net-maui-calendar-sfcalendar).
 
 ## Syncfusion controls
 
